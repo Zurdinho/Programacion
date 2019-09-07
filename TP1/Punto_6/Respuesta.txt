@@ -1,0 +1,5 @@
+Dos de los siguientes tipos no son primitivos del lenguaje. ¿Cuales?
+ int, double, Float, boolean, byte, String, char.
+
+La respuesta es "Float" y "String". A simple vista, nos podemos dar cuenta, porque los tipos primitivos son todo en
+minúsculas. Los que menciono comienzan con Mayusculas.

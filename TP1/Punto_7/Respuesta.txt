@@ -1,0 +1,5 @@
+7. ¿Qué valor por defecto toma una variable de un tipo no primitivo con sólo declararla?
+Actor alfredoAlcon;
+
+Simplemente con declararla, el valor por defecto que va a tomar es Null. Luego depende si instanciamos o no, va a
+cambiar su valor segun el costructor.

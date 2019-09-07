@@ -1,0 +1,414 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3207,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"int",
+						"int"
+					],
+					[
+						"capac",
+						"cantidadDeDvdsParaBackupearHdd"
+					],
+					[
+						"canti",
+						"cantidadBlueRaysParaBackupearHdd"
+					],
+					[
+						"capa",
+						"capacidadBlueRay"
+					],
+					[
+						"con",
+						"conversionDeUnidad"
+					],
+					[
+						"cant",
+						"cantidadDeDvdsParaBackupearHdd"
+					],
+					[
+						"pre",
+						"preIncremento"
+					],
+					[
+						"double",
+						"double"
+					],
+					[
+						"float",
+						"float"
+					],
+					[
+						"cons",
+						"consorcioCallePeron"
+					],
+					[
+						"as",
+						"Ascensor"
+					],
+					[
+						"color",
+						"color"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"pala",
+						"palabra1"
+					],
+					[
+						"pal",
+						"palabra2"
+					],
+					[
+						"pa",
+						"palabra1"
+					],
+					[
+						"TH",
+						"this"
+					],
+					[
+						"BIC",
+						"Bicicleta"
+					],
+					[
+						"RUTA",
+						"rutaRoja"
+					],
+					[
+						"r",
+						"rutaRoja"
+					],
+					[
+						"m",
+						"mountainNegra"
+					],
+					[
+						"ruta",
+						"rutaRoja"
+					],
+					[
+						"st",
+						"static"
+					],
+					[
+						"bic",
+						"Bicicleta"
+					],
+					[
+						"cade",
+						"cadenciaDeseada"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"cl",
+						"class"
+					],
+					[
+						"pu",
+						"public"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\"C:\\Program Files\\Java\\jdk-11.0.4\\bin\\javac.exe\"\n\"C:\\Program Files\\Java\\jdk-11.0.4\\bin\\java.exe\"",
+					"settings":
+					{
+						"buffer_size": 96,
+						"line_ending": "Windows",
+						"name": "\"C:\\Program Files\\Java\\jdk-11.0.4\\bin\\javac.exe\""
+					}
+				},
+				{
+					"file": "/D/facu/TP1/Punto_10/ClaseDePrueba.java",
+					"settings":
+					{
+						"buffer_size": 1003,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/facu/TP1/Punto_10/ClaseDePrueba.java",
+				"/D/facu/TP1/Punto_8/ClaseDePrueba.java",
+				"/D/facu/SC20190827/OperadoresDeAsignacion.java",
+				"/D/facu/TP1/Punto_4/ConcatenandoStrings.java",
+				"/D/facu/SC20190827/Ciclista.java",
+				"/D/facu/TP1/Punto_3/PruebaConLong.java",
+				"/D/facu/TP1/Punto_3/PruebaConFloat.java",
+				"/D/facu/TP1/Punto_3/PruebaConByte.java",
+				"/D/facu/TP1/Punto_3/PruebaConShort.java",
+				"/D/facu/TP1/Punto_2/PruebaConEnteros.java",
+				"/E/facu/QC20190905/EjemploDeVida.java",
+				"/E/facu/QC20190905/ManejoAscensor.java",
+				"/K/facu/CC20190903/ManejoDeString.java",
+				"/K/facu/CC20190903/Ciclista.java",
+				"/K/facu/VARIOS/info.txt",
+				"/K/facu/CC20190903/Bicicleta.java",
+				"/C/Users/laboratorios/Downloads/Persona1 (1).class",
+				"/K/facu/CC20190903/ImprimirSaludo.java",
+				"/K/facu/TC20190829/Bicicleta.java",
+				"/C/Users/laboratorios/Downloads/Bicicleta.java",
+				"/C/Users/laboratorios/Downloads/Ciclista.java",
+				"/K/facu/TC20190829/PruebaPrint.java",
+				"/D/facu/TC20190829/PruebaPrint.java",
+				"/D/facu/TC20190829/Bicicleta.java",
+				"/D/facu/TC20190829/Ciclista.java",
+				"/C/Users/laboratorios/Desktop/PBI/PrimerPrograma.java",
+				"/K/facu/SC20190827/Bicicleta.java",
+				"/K/facu/SC20190827/Ciclista.java",
+				"/K/facu/SC20190827/OperadoresDeAsignacion.java"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"[A-z]+short[A-z]+",
+					"int",
+					"public char pintar(char color){\n\t\tthis.color = \"v\";\n\t\treturn color;\n\t}",
+					"d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"println",
+					"short"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 96,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										96,
+										96
+									]
+								],
+								"settings":
+								{
+									"auto_name": "\"C:\\Program Files\\Java\\jdk-11.0.4\\bin\\javac.exe\"",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/facu/TP1/Punto_10/ClaseDePrueba.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1003,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1003,
+										1003
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,617,78,78,734",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
