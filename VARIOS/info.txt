@@ -1,0 +1,6 @@
+C:\JAVA\jdk-12.0.1\bin\javac.exe
+C:\JAVA\jdk-12.0.1\bin\java.exe
+
+
+C:\jdk-12.0.2\bin\javac.exe
+C:\jdk-12.0.2\bin\java.exe
