@@ -1,0 +1,11 @@
+22) Ingresar dos notas de un alumno y mostrar los mensajes que correspodan.
+Se tiene que crear la clase alumno que va a contener como atributos las dos notas, y como metodo la situacion del alumno (situacionAlumno) que puede ser:
+'p' Promocionar la Materia.
+'c' Cursa la materia.
+'r' Reprueba la materia.
+
+	A) Promocionó: si ambas notas son 7 o superior.
+	B) Cursó: si ambas notas son 4 o mas, con lo cual no reune los requisitos para la promocion.
+	C) Reprobó: alguna de las notas obtenidas no llega a ser 4.
+
+El mismo ejercicio anterior, pero con 3 notas.
